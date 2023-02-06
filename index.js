@@ -5,6 +5,7 @@ startScript = () => {
 
   for (let i = 0; i < 5; i++) {
     startVal++;
+    // some mistake
   }
 
   console.log("end");
